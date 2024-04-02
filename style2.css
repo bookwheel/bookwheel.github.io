@@ -1,0 +1,22 @@
+ .contents{
+    width:30rem;
+    height:30rem;
+    background-color:#667074;
+    border-radius:10px;
+    border:solid 3px;
+    margin:0 auto;
+    padding:0.5rem 1rem;
+    font-size:3rem;
+}
+.caption{
+    font-size:2rem;
+    font-weight:bold;
+    text-align:center;
+    line-height:5rem;
+}
+.l{
+    font-size:3rem;
+}
+.l:hover{
+    font-size:3.1rem;
+}
